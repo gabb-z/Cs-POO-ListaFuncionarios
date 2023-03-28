@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.exe
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.deps.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.genruntimeconfig.cache
